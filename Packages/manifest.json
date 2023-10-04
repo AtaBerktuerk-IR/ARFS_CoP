@@ -15,6 +15,7 @@
     "com.unity.xr.meta-openxr": "0.2.1",
     "com.unity.xr.oculus": "4.0.0",
     "com.unity.xr.openxr": "1.8.2",
+    "com.unity.xr.openxr.picoxr": "file:D:/Code/SDKs/PICO_OPENXR_SDK",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
